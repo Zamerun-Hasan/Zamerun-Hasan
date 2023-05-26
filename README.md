@@ -1,6 +1,6 @@
 ### Hi there 👋,
 #### Web Developer
-![Web Developer](https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/286112659_568887814585086_8803462800407289125_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHwBraGSBcHG1cEyluLWigw4zbllgj4cPXjNuWWCPhw9Qi19_Y2XR_jt84ckUNWOarkpfRA5bwFuOwe___kbP0v&_nc_ohc=688WEYXW-zwAX9RlqSx&tn=pqTB7YOSP9ASoiDN&_nc_ht=scontent.fdac116-1.fna&oh=00_AT91QAxOacQUEujTGN5_cx1Sxw_hdegzfUb8kiYD537iWg&oe=62A97014)
+
 
 Love to learn new skills. Now learning JavaScript. I love to solve real-world problems. Life is beautiful.
 
